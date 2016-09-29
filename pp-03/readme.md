@@ -25,6 +25,11 @@ You’ll then use that to compute the values for the CSS styles below.
         font-size: 17px;
         line-height: 24px;
       }
+      
+      html{
+        font-size: 1.0625em;
+        line-height: 1.5em;
+      }
 
 3. Set the padding for this page to 12px on top and bottom, and 6px on left and right. Express in
 ems:
