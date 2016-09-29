@@ -24,10 +24,26 @@ h2 {
   padding-bottom: 0.32em; /* 5.12px */  
 }
 
-p {
+p,
+ul {
+  padding-top: 0.575em; /* 9.2px */
   font-size: 0.878em;  /* 14px */
   line-height: 1.138em; /* 18.208px */
   padding-bottom: 0.575em; /* 9.2px */
 }
+
+ul li {
+  font-size: 1em; 
+  padding: 1em 0.5em;
+}
+
+ul li p {
+  font-size: 1em;
+}
+
+
+
+ 
+
 
 
