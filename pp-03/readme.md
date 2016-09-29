@@ -56,3 +56,7 @@ in pixels?
       figure h2 {
         font-size: 1.4375em;
       }
+      
+      figure {
+        font-size: 23px;
+      }
