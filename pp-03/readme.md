@@ -26,7 +26,7 @@ You’ll then use that to compute the values for the CSS styles below.
         line-height: 24px;
       }
       
-      html{
+      html {
         font-size: 1.0625em;
         line-height: 1.5em;
       }
@@ -37,6 +37,11 @@ ems:
       html {
         font-size: 1.125em;
         padding:
+      }
+      
+      html {
+        font-size: 1.125em;
+        padding: .75em 0.375em;
       }
 
 4. Consider the following CSS. Assuming a browser with its base size at 1em = 16px, how big is h2,
