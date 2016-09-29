@@ -16,7 +16,7 @@ html {
 h1 {
   font-size: 2.041em; /* 32.656px */
   padding-bottom: 0.32em; /* 5.12px */
-  line-height: 0.878em;
+  line-height: 0.878em; /* 14px */
 }
 
 h2 {
@@ -33,12 +33,12 @@ ul {
 }
 
 ul li {
-  font-size: 1em; 
-  padding: 1em 0.5em;
+  font-size: 1em; /* 14px */
+  padding: 1em 0.5em; /* 14px and 7px */
 }
 
 ul li p {
-  font-size: 1em;
+  font-size: 1em; /* 14px /
 }
 
 
