@@ -14,6 +14,10 @@ You’ll then use that to compute the values for the CSS styles below.
       html {
         font-size: 19px;
       }
+      
+      html {
+        font-size: 1.1875em;
+      }
 
 2.  Convert the base font-size listed here to ems, and set the line-height in ems accordingly:
 
