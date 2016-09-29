@@ -16,12 +16,18 @@ html {
 h1 {
   font-size: 2.041em; /* 32.656px */
   padding-bottom: 0.32em; /* 5.12px */
+  line-height: 0.878em;
 }
 
 h2 {
   font-size: 1.383em; /* 22.128px */   
-  padding-bottom: 0.32em; /* 5.12px */
+  padding-bottom: 0.32em; /* 5.12px */  
 }
 
+p {
+  font-size: 0.878em;  /* 14px */
+  line-height: 1.138em; /* 18.208px */
+  padding-bottom: 0.575em; /* 9.2px */
+}
 
 
