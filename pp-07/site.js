@@ -3,14 +3,16 @@
   outputs the correct value for x (5).
 */
 
-var x = 5;
+(function(){
+  var x = 5;
 
-function double(num) {
-  return num * 2;
-}
-
-double(6);
-console.log('The value of x is:', x, 'It should be 5.');
+  function double(num) {
+    return num * 2;
+  }
+  
+  double(6);
+  console.log('The value of x is:', x, 'It should be 5.');
+})();
 
 /*
   2. Rewrite the corrected JavaScript above as function that
