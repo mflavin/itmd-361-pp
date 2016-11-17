@@ -17,6 +17,7 @@ Write the URL for your personal fork of the repository here: https://github.com/
 6. Each member of the group should clone their forked copy of the repository to his/her computer. Once you have cloned the forked copy, you should add the *group* repository as a second remote. Run `git remote add group` followed by the URL for your group’s repository.
 
 Write the output of `git remote -v` from your copy of the forked repository here: 
+
 group  https://github.com/Free-Wifi/Project-3.git (fetch)
 
 group  https://github.com/Free-Wifi/Project-3.git (push)
